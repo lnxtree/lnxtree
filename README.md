@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lnxtree/lnxtree/main/dist/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lnxtree/lnxtree/main/dist/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=lnxtree&animation=snake&theme=nightowl&shape=square" />
 
 <!--
 **lnxtree/lnxtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
