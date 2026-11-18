@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi here 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lnxtree/lnxtree/main/dist/github-contribution-grid-snake-dark.svg" />
